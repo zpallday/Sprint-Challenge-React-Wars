@@ -6,6 +6,8 @@ import { Card } from 'semantic-ui-react';
 
 
 
+
+
 function StarWarsCharacters(props) {
     console.log(props);
     return (
