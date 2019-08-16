@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+.Header {
+  color: #443e3e;
+  text-shadow: 1px 1px 5px #fff;
+  padding: 10px 0 10px 0;
+}
+
+.card-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  align-items: baseline;
+  margin: 20px;
+}
+
+
+
+
+  .footer {
+    font-family: 'Darker Grotesque', sans-serif;
+    color: darkred;
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 20px 100px 20px 100px;
+  }
+
+/* write your parent styles in here for your App.js */

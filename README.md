@@ -26,13 +26,33 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+<!-- Is a open source in the JavaScript library for building user interfaces.
+It uses JSX a syntax extension for javascript, and ReactDom. It was built by 
+facebook and right now it one of the most popular libraries. -->
+
+
+
 - [ ] What does it mean to _think_ in react?
+<!-- To have a good and order process. By figuring out the components, build a 
+version of each component in React, to minimal representation on the state
+that is needed in the application, and add ways for data to flow back from
+the bottom to the top of the hierarchy. -->
+
+
 
 - [ ] Describe state.
 
+<!-- Starts with a default value. It refers to the state of the data in a component. -->
+
 - [ ] Describe props.
 
+<!-- Passing information held on the state inside the component to another component -->
+
+
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+<!-- Anything that affects something outside the scope of the function being executed -->
+<!-- passing in a dependeny array secound argument -->
 
 ## Project Set Up
 

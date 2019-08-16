@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './App.css';
+import './App.scss';
 import StarWarsPeople from './components/StarWarsCharacters';
 import axios from 'axios';
 // import styled from 'styled-components';
